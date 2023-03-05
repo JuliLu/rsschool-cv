@@ -1,3 +1,5 @@
+[rsschool-cv](https://JuliLu.github.io/rsschool-cv/cv)
+
 Julia Lukyanova
 ================
 _______________
@@ -25,21 +27,19 @@ Skills
 + CSS
 + JavaScript (in progress)
 + VS Code
+
+
 _______________________
 
 Code Example:
 -------------
 
 ```
-function PrintReverseNum(num)
-{
-         for (let i = num; i > 0; i--)
-           console.log(i + " ");
-    }
- 
-    let num = 5;
-  
-     PrintReverseNum(num);
+let arr = [1,2,3,4,5];
+
+const newArr = arr.map((item, index,arrat)=>item*2
+)
+console.log(newArr)
 
 ```
 _________
@@ -52,6 +52,7 @@ Education
     +    It-Academy 
     +    Redev 
     +    JavaScript https://learn.javascript.ru/
+    +    RS-School stage#0
 
 __________________________
 
