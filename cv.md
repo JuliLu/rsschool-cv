@@ -11,7 +11,7 @@ ______________________
 About Me
 --------
 Hello World!
-I am 32 years old and work as a nurse.  I believe that the skills I received will help me in learning and working in a team. My goal is to get knowledge in front-end development.
+I am 32 years old and work as a nurse. I believe that the skills I received will help me in learning and working in a team. My goal is to get knowledge in front-end development.
 
 Skills
 ------
@@ -32,3 +32,17 @@ console.log(newArr)
 
 ```
 _________
+
+Education
+----------
++ **University:** International Sakharov Environmental Institute of Belarusian State University
+  
++ **Courses:**
+    +    It-Academy
+    +    Redev
+    +    JavaScript https://learn.javascript.ru/
+_______________________
+Languages
+-------
++ **Russian** - native speaker
++ **English** - A2
